@@ -1,5 +1,8 @@
 # isdc-router-planner-project
 Final project for "Navigating Data Structures" in the Introduction to Self Driving Cars Nanodegree
+Credit: student_code.py written by Davinder
+	Project notebook and other files here provided by Udacity
+
 
 ## Project Requirements 
 

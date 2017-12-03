@@ -1,6 +1,7 @@
 import math
 ### A* search algorith
 ### Created 02-12-17
+### Written by Davinder Chandhok
 
 def shortest_path(M,start,goal):
     print("shortest path called")
